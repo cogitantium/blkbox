@@ -2,7 +2,7 @@
 dotfiles and configs from aging, botched server
 
 ## hardware
-####CPU:
+...####CPU:
 
 - Pentium 4 3.40GHz @ 3.912GHz
 ####Memory:
