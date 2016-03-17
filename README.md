@@ -3,7 +3,7 @@ dotfiles and configs from aging, botched server
 
 ## hardware
 
-blkbox | 
+blkbox | -
 --- | --- 
 CPU | Pentium 3 3.40GHz @ 3.912GHz
 Memory | 2x DDR2 Kingston ValueRAM 1GB @ 764MHz
