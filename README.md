@@ -1,6 +1,8 @@
 # blkbox
 dotfiles and configs from aging, botched server
 
+attempting to migrate all vital configuration to repo for symlinking back to original locations
+
 ## hardware
 
 blkbox | -
