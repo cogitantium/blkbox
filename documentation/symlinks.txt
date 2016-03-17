@@ -1,3 +1,5 @@
-# Current symlinks
+Current symlinks
 
 /home/serv/blkbox/resources/pacman.d/mirrorlist > /etc/pacman.d/mirrorlist
+
+/home/serv/blkbox/configs/nginx* > /etc/nginx/*
