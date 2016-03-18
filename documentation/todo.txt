@@ -1,0 +1,3 @@
+letsencrypt for SSL-certificate rendered impossible by NAT-loopback feature missing in OnHub-router
+
+either wait for fix or find an alternative solution to generating certificate
