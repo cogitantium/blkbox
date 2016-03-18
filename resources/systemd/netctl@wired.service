@@ -1,0 +1,6 @@
+.include /usr/lib/systemd/system/netctl@.service
+
+[Unit]
+Description=Onboard Ethernet static IP @ 192.168.86.86
+BindsTo=sys-subsystem-net-devices-enp1s0.device
+After=sys-subsystem-net-devices-enp1s0.device

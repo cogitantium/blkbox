@@ -1,0 +1,10 @@
+[Unit]
+Description= Run reflector daily for https rated mirrors for speed
+
+[Timer]
+OnCalendar=daily
+AccuracySec=1h
+Persistent=true
+
+[Install]
+wantedBy=timers.target

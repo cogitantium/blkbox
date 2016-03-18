@@ -1,0 +1,13 @@
+//doesn't work as Tixati-devs hasn't finished daemon support
+
+[Unit]
+Description=Tixati Daemon
+After=network.target
+
+[Service]
+User=serv
+ExecStart=/usr/bin/tixati
+UMask=0002
+
+[Install]
+WantedBy=multi-user.target

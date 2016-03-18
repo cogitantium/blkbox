@@ -1,5 +1,18 @@
-Current symlinks
+#Current symlinks
+#systemctl daemon-reload post-symlink
 
 /home/serv/blkbox/resources/pacman.d/mirrorlist > /etc/pacman.d/mirrorlist
 
+/home/serv/blkbox/resources/systemd/ > /etc/systemd/system/
+	deluged.service
+	docker.service
+	netctl@wired.service
+	ngircd.service
+	reflector.service
+	reflector.timer
+	teamviewerd.service
+	tixati.service
+	vncserver@:1.service
+
 /home/serv/blkbox/configs/nginx* > /etc/nginx/*
+

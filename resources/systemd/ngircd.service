@@ -1,0 +1,8 @@
+[Unit]
+Description=ngircd server @ blkbox 
+
+[Service]
+Type=simple
+User=serv
+Group=serv
+ExecStart=/usr/bin/ngircd -n -f /home/serv/blkbox/configs/ngircd/ngircd.conf
