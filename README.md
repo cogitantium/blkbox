@@ -1,5 +1,5 @@
 # blkbox
-dotfiles and configs from aging, botched server
+dotfiles, configs and resources from aging, botched server
 
 attempting to migrate all vital configuration to repo for symlinking back to original locations
 
