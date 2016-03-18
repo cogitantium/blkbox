@@ -14,3 +14,6 @@ Storage | WD 5400RPM Green Caviar 1.5TB
 - | Seagate Barracude 1TB
 - | WD Scorpio Black 256GB
 - | Toshiba 80GB
+
+
+![system](https://raw.githubusercontent.com/dareeude/blkbox/master/documentation/build.jpg)
