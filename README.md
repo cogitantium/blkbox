@@ -16,4 +16,4 @@ Storage | WD 5400RPM Green Caviar 1.5TB
 - | Toshiba 80GB
 
 
-![system](https://raw.githubusercontent.com/dareeude/blkbox/master/documentation/build.jpg)
+![system](https://raw.githubusercontent.com/dareeude/blkbox/master/documentation/media/build.jpg)
