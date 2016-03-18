@@ -16,3 +16,4 @@
 
 /home/serv/blkbox/configs/nginx* > /etc/nginx/*
 
+/home/serv/blkbox/configs/samba/smb.conf > /etc/samba/
