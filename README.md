@@ -3,6 +3,8 @@ dotfiles, configs and resources from aging, botched server
 
 attempting to migrate all vital configuration to repo for symlinking back to original locations
 
+*uptime 99.375% for the past month*
+
 ## hardware
 
 monitoring hardware can be done through [monitorix.cogitantium.com](http://monitorix.cogitantium.com)
