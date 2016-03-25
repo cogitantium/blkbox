@@ -11,7 +11,7 @@ monitoring hardware can be done through [monitorix.cogitantium.com](http://monit
 
 blkbox | -
 --- | --- 
-CPU | Pentium 3 3.40GHz @ 3.912GHz
+CPU | Pentium 4 3.40GHz @ 3.912GHz
 Memory | 2x DDR2 Kingston ValueRAM 1GB @ 764MHz
 - | 1x DDR2 Crucial (series?) 1GB @  764MHz
 Storage | WD 5400RPM Green Caviar 1.5TB
