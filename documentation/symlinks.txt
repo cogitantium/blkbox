@@ -1,3 +1,4 @@
+#OUTDATED! since previous symlinks.txt-commit
 #Current symlinks
 #systemctl daemon-reload post-symlink
 
