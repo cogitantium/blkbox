@@ -2,9 +2,6 @@
 Description= Run reflector daily for https rated mirrors for speed
 
 [Timer]
-OnCalendar=daily
-AccuracySec=1h
+OnCalendar=*-*-* 22:00:00
+AccuracySec=1s
 Persistent=true
-
-[Install]
-wantedBy=timers.target

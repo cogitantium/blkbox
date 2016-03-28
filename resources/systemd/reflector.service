@@ -1,5 +1,5 @@
 [Unit]
-Description= Reflector mirrorlist rater
+Description= Reflector mirrorlist sorter
 
 [Service]
 Type=oneshot
