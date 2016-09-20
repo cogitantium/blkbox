@@ -6,7 +6,7 @@ repository for work on blkbox
 
 ## hardware
 
-*uptime 99.375% for the past month*
+*uptime 99.9% over past year*
 
 monitoring hardware can be done through [monitorix.cogitantium.com](http://monitorix.cogitantium.com)
 
