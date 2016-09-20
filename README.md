@@ -2,13 +2,13 @@
 dotfiles, configs and resources from aging, botched server
 
 WIP to migrate all vital configuration to repo for symlinking back to original locations along with serving as a general 
-repository for work on blkbox
+repository for work on blkbox, regular releases for each finished module/service
 
 ## hardware
 
 *uptime 99.9% over past year*
 
-monitoring hardware can be done through [monitorix.cogitantium.com](http://monitorix.cogitantium.com)
+monitoring hardware can be done through [monitorix.cogitantium.com](http://monitorix.cogitantium.com) (outdated)
 
 blkbox | specifications
 --- | --- 
