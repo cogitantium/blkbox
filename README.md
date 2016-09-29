@@ -29,4 +29,4 @@ Storage | WD 5400RPM Green Caviar 1.5TB
 Floppy support | **true**
 
 
-![system](https://raw.githubusercontent.com/dareeude/blkbox/master/documentation/media/build.jpg)
+![system](https://raw.githubusercontent.com/dareeude/blkbox/master/documentation/media/blkbox.png)
