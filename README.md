@@ -4,6 +4,12 @@ dotfiles, configs and resources from aging, botched server
 WIP to migrate all vital configuration to repo for symlinking back to original locations along with serving as a general 
 repository for work on blkbox, regular releases for each finished module/service
 
+##links
+
+- [front.cogitantium.com](http://front.cogitantium.com)
+- [emby.cogitantium.com](http://emby.cogitantium.com)
+- [monitorix.cogitantium.com](http://monitorix.cogitantium.com)
+
 ## hardware
 
 *uptime 99.9% over past year*
