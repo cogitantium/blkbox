@@ -14,14 +14,14 @@ repository for work on blkbox, regular releases for each finished module/service
 
 *uptime 99.9% over past year*
 
-monitoring hardware can be done through [monitorix.cogitantium.com](http://monitorix.cogitantium.com) (outdated)
+imminent upgrade to Q8400 (passmark ~3400) from P4 (passmark ~500)
 
 blkbox | specifications
 --- | --- 
 CPU | LGA775 Pentium 4 3.40GHz @ 3.912GHz
 Motherboard | ASUSTeK P5E-VM HDMI
-Memory | 2x DDR2 Kingston ValueRAM 1GB @ 667MHz
-. | 1x DDR2 Crucial (series?) 1GB @  667MHz
+Memory | 2x DDR2 Kingston KVR667D2N5/1G 1GB @ 667MHz
+. | 1x DDR2 Corsair CM2X1024-6400 1GB @  667MHz
 Storage | WD 5400RPM Green Caviar 1.5TB
 . | Seagate Barracude 1TB
 . | WD Scorpio Black 256GB
