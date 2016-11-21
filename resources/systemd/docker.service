@@ -11,7 +11,7 @@ MountFlags=slave
 LimitNOFILE=1048576
 LimitNPROC=1048576
 LimitCORE=infinity
-Environment="http_proxy=192.168.86.1:3128"
+Environment="http_proxy=192.168.86.86:3128"
 
 [Install]
 WantedBy=multi-user.target
