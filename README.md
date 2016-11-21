@@ -11,22 +11,22 @@ repository for work on blkbox, regular releases for each finished module/service
 - [monitorix.cogitantium.com](http://monitorix.cogitantium.com)
 
 ##features
-- emby with plex fallback, geared towards streaming
+- emby with plex fallback, geared towards streaming, SSL support
 - ngircd with SSL
 - deluged with web-interface
-- monitorix
+- monitorix (broken AF)
 - nginx with php-fpm, mariadb
-- lighttpd through tor
+- lighttpd through tor for hidden service
 - ap through hostapd on wifi-card (offering vpn-secured network later on)
-- samba for sharing non-media torrents on local network
+- samba for sharing non-media torrents on local network (broken 'cause fuck cross-compatibility with windoze)
 - ntpd with sub-millisecond offset
 - sshd, hardened with pkey, GAuth(proprietary, migrate imminent) and PAM-passwd(no remoteroot)
 
 ###workinprogress
 - jailing of vulnerable services for high-end security without KVM/virtualization (sshd, media-servers, web-servers)
 - purge of botched projects
-- a goddamn upgrade of CPU
-- fixing RJ45-cable, so connection-drops are less frequent
+- a goddamn upgrade of CPU (fixed Q8400)
+- fixing RJ45-cable, so connection-drops are less frequent (fixed)
 
 ## hardware
 
