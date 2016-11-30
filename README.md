@@ -6,6 +6,9 @@ repository for work on blkbox, regular releases for each finished module/service
 
 ##links
 
+[blkbox wiki](https://cogitantium.com/dokuwiki/)
+
+Links not updated
 - [front.cogitantium.com](http://front.cogitantium.com)
 - [emby.cogitantium.com](http://emby.cogitantium.com)
 - [monitorix.cogitantium.com](http://monitorix.cogitantium.com)
