@@ -42,11 +42,11 @@ blkbox | specifications
 CPU | LGA775 Pentium 4 3.40GHz @ 3.912GHz
 Motherboard | ASUSTeK P5E-VM HDMI
 Memory | 2x DDR2 Kingston KVR667D2N5/1G 1GB @ 667MHz
-. | 1x DDR2 Corsair CM2X1024-6400 1GB @  667MHz
+  | 1x DDR2 Corsair CM2X1024-6400 1GB @  667MHz
 Storage | WD 5400RPM Green Caviar 1.5TB
-. | Seagate Barracude 1TB
-. | WD Scorpio Black 256GB
-. | Toshiba 80GB
+  | Seagate Barracude 1TB
+  | WD Scorpio Black 256GB
+  | Toshiba 80GB
 Floppy support | **true**
 
 
