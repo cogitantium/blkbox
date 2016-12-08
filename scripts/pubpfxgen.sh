@@ -1,1 +1,1 @@
-pfxgen.sh
+/var/lib/emby/ssl/pfxgen.sh
