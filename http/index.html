@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>start | blkbox</title>
+	<script src="https://use.fontawesome.com/5c04e656d6.js"></script>
+    </head>
+    <body>
+        <style type="text/css" media="screen">
+            html, body
+            { margin: 0; padding: 0; background:#122932; }
+            .row
+            { text-align: center; margin-top: 250px; }
+            .row .column
+            { display: inline; letter-spacing: 1em;  }
+            .row .column a
+            { font-size: 512%; color: rgba(0,0,0,0); }
+            .row .column a:not(:hover)
+            { opacity: .5; transition: opacity .5s;  }
+            .emby		i {color: #399e5a; }
+            .terminal		i {color: #98ce00; }
+            .dirs		i {color: #465362; }
+            .blkbox		i {color: #187795; }
+            .adarkroom		i {color: #775253; }
+            .hextris		i {color: #d8973c; }
+            .secondrow
+            { text-align: center; margin-top: 25px; }
+            .secondrow .secondcolumn
+            { display: inline; letter-spacing: 1em;  }
+            .secondrow .secondcolumn a
+            { font-size: 512%; color: rgba(0,0,0,0); }
+            .secondrow .secondcolumn a:not(:hover)
+            { opacity: .5; transition: opacity .5s;  }
+            .deluge             i {color: #26408b; }
+            .couchpotato        i {color: #c03221; }
+            .sonarr             i {color: #f4e9cd; }
+            .wiki               i {color: #edae49; }
+            .monitoring         i {color: #700548; }
+            .unassigned         i {color: #7272ab; }
+
+	    body {
+	    -webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+	       -moz-animation: fadein 1s; /* Firefox < 16 */
+	        -ms-animation: fadein 2s; /* Internet Explorer */
+	         -o-animation: fadein 1s; /* Opera < 12.1 */
+	            animation: fadein 1s;
+	    }
+
+	         @keyframes fadein {
+	        from { opacity: 0; }
+	        to   { opacity: 1; }
+	    }
+
+	    /* Firefox < 16 */
+	    @-moz-keyframes fadein {
+	        from { opacity: 0; }
+	        to   { opacity: 1; }
+	    }
+
+	    /* Safari, Chrome and Opera > 12.1 */
+	    @-webkit-keyframes fadein {
+	        from { opacity: 0; }
+	        to   { opacity: 1; }
+	    }
+
+	    /* Internet Explorer */
+	     @-ms-keyframes fadein {
+	        from { opacity: 0; }
+	        to   { opacity: 1; }
+	    }
+        </style>
+
+        <div class="row">
+            <div class="column">
+                <a href="https://cogitantium.com:8920" class="emby">
+                    <i class="fa fa-chevron-circle-right"></i>
+                </a>
+            </div>
+            <div class="column">
+                <a href="http://duckduckgo.com" class="terminal">
+                    <i class="fa fa-terminal"></i>
+                </a>
+            </div>
+            <div class="column">
+                <a href="https://cogitantium.com/dirs/" class="dirs">
+                    <i class="fa fa-folder-open"></i>
+                </a>
+            </div>
+            <div class="column">
+                <a href="https://github.com/dareeude/blkbox/" class="blkbox">
+                    <i class="fa fa-github"></i>
+                </a>
+            </div>
+            <div class="column">
+                <a href="https://cogitantium.com/adarkroom/" class="adarkroom">
+                    <i class="fa fa-fire"></i>
+                </a>
+            </div>
+            <div class="column">
+                <a href="https://cogitantium.com/hextris/" class="hextris">
+                    <i class="fa fa-pie-chart"></i>
+                </a>
+            </div>
+        </div>
+
+        <div class="secondrow">
+            <div class="secondcolumn">
+                <a href="https://cogitantium.com:8112" class="deluge">
+                    <i class="fa fa-tint"></i>
+                </a>
+            </div>
+            <div class="secondcolumn">
+                <a href="https://cogitantium.com:5050" class="couchpotato">
+                    <i class="fa fa-ticket"></i>
+                </a>
+            </div>
+            <div class="secondcolumn">
+                <a href="https://cogitantium.com:8989" class="sonarr">
+                    <i class="fa fa-television"></i>
+                </a>
+            </div>
+            <div class="secondcolumn">
+                <a href="https://cogitantium.com/wiki/" class="wiki">
+                    <i class="fa fa-wikipedia-w"></i>
+                </a>
+            </div>
+            <div class="secondcolumn">
+                <a href="https://cogitantium.com/zabbix/index.php" class="monitoring">
+                    <i class="fa fa-bar-chart"></i>
+                </a>
+            </div>
+            <div class="secondcolumn">
+                <a href="https://cogitantium.com/hextris/" class="unassigned">
+                    <i class="fa fa-microchip"></i>
+                </a>
+            </div>
+        </div>
+    </body>
+</html>
