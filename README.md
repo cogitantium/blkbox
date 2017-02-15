@@ -33,7 +33,7 @@ Links not updated
 
 ## hardware
 
-*uptime 99.9% over past year*
+*uptime 99.9% over past year* //subject to cherry-picking
 
 imminent upgrade to Q8400 (passmark ~3400) from P4 (passmark ~500)
 
