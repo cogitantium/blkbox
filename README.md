@@ -30,11 +30,9 @@ repository for work on blkbox, regular releases for each finished module/service
 
 *uptime 99.9% over past year* //subject to cherry-picking
 
-imminent upgrade to Q8400 (passmark ~3400) from P4 (passmark ~500)
-
 blkbox | specifications
 --- | --- 
-CPU | LGA775 Pentium 4 3.40GHz @ 3.912GHz
+CPU | LGA775 Core 2 Quad 2.66GHz @ 3.4GHz
 Motherboard | ASUSTeK P5E-VM HDMI
 Memory | 2x DDR2 Kingston KVR667D2N5/1G 1GB @ 667MHz
   | 1x DDR2 Corsair CM2X1024-6400 1GB @  667MHz
