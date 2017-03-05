@@ -42,5 +42,5 @@ Storage | WD 5400RPM Green Caviar 1.5TB
   | Toshiba 80GB
 Floppy support | **true**
 
-
+//Missing IDE-harddisk
 ![system](https://raw.githubusercontent.com/dareeude/blkbox/master/documentation/media/blkbox.png)
