@@ -1,3 +1,5 @@
+# Currently abandoned in favour of proper hypervisor
+
 # blkbox
 dotfiles, configs and resources from aging, botched server
 
